@@ -2,5 +2,6 @@
     "firstName": "John",
     "lastName": "Smith",
     "phoneNumber": "(123) 456-7890",
-    "email": "john.smith@myemail.com"
+    "email": "john.smith@myemail.com",
+    "address": "123 Elm Street"
 }
