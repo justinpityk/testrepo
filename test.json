@@ -3,5 +3,6 @@
     "lastName": "Smith",
     "phoneNumber": "(123) 456-7890",
     "email": "john.smith@myemail.com",
-    "address": "123 Elm Street"
+    "address": "123 Elm Street",
+    "favoriteFood": "onion"
 }
