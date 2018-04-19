@@ -1,0 +1,12 @@
+{
+    "patientId":"d5b38e33-22a2-4f29-bf4b-5851fac0675b",
+    "deviceSerialNumber":"J146765781265",
+    "reportStorageSignedURL":"https://cf-s3-811d8147-d3ab-444e-9e72-d0926577397c.s3-external-1.amazonaws.com/%2Ftemp/3ab4ce8b-6148-4da1-9179-c716dc76327c-2018-04-18T19%3A08%3A26.880Z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20180418T190826Z&X-Amz-SignedHeaders=content-type%3Bhost%3Bx-amz-server-side-encryption&X-Amz-Expires=3599&X-Amz-Credential=AKIAJ7F3KCPWN6HOVEZA%2F20180418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3b464c67d1c8d984158e8ea8a6ddcf0bc58bbe2a115b6a83da48bd168018008e",
+    "companyLogoSignedURL":"https://cf-s3-60b910d5-3d73-4068-81eb-b8270ec764bc.s3-external-1.amazonaws.com/4a39_0805cf29-550e-4f76-917a-4a37a25ec813-2017-11-27T13%3A32%3A35.763Z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20180418T190828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIAIXWGXHOM4ICBEKQQ%2F20180418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=22de895f501c23202e75b5f6c1d02ebe74174d903d196bb38a4352d4e5a89ffc",
+    "sleepDoctor":null,
+    "clinician":{
+        "firstName":"Dave",
+        "lastName":"Waveform"
+    },
+    "pcp":null
+}
